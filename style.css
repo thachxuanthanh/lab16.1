@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background-color: #e9ecef;
+  text-align: center;
+  line-height: 1.6;
+}
+#img-div {
+  background-color: #fff;
+}
+img {
+  width: 100%;
+  display: block;
+  height: auto;
+}
+
+ul {
+  text-align: left;
+  line-height: 1.6;
+}
